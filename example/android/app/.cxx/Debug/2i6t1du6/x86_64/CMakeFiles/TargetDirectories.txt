@@ -1,0 +1,6 @@
+C:/projetos/sound-table/react-native-multitrack-player/example/android/app/.cxx/Debug/2i6t1du6/x86_64/CMakeFiles/appmodules.dir
+C:/projetos/sound-table/react-native-multitrack-player/example/android/app/.cxx/Debug/2i6t1du6/x86_64/CMakeFiles/edit_cache.dir
+C:/projetos/sound-table/react-native-multitrack-player/example/android/app/.cxx/Debug/2i6t1du6/x86_64/CMakeFiles/rebuild_cache.dir
+C:/projetos/sound-table/react-native-multitrack-player/example/android/app/.cxx/Debug/2i6t1du6/x86_64/RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir
+C:/projetos/sound-table/react-native-multitrack-player/example/android/app/.cxx/Debug/2i6t1du6/x86_64/RNVectorIconsSpec_autolinked_build/CMakeFiles/edit_cache.dir
+C:/projetos/sound-table/react-native-multitrack-player/example/android/app/.cxx/Debug/2i6t1du6/x86_64/RNVectorIconsSpec_autolinked_build/CMakeFiles/rebuild_cache.dir

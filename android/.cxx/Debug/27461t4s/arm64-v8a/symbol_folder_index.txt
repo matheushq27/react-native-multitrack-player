@@ -1,0 +1,1 @@
+C:\projetos\sound-table\react-native-multitrack-player\example\node_modules\react-native-multitrack-player\android\build\intermediates\cxx\Debug\27461t4s\obj\arm64-v8a

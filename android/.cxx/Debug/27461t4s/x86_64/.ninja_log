@@ -1,0 +1,6 @@
+# ninja log v5
+7	196	8031790074165571	CMakeFiles/MultiTrackPlayer.dir/b0e0a81f060cd21383939b388a75cece/SuperpoweredAndroidAudioIO.cpp.o	22693c06354f2372
+13	225	8031790074075318	CMakeFiles/MultiTrackPlayer.dir/cecd8a46ced096632060b97fa2f6e3e3/cpp/Track.cpp.o	fc9ef50fbe01724d
+24	1473	8031790086771769	CMakeFiles/MultiTrackPlayer.dir/cecd8a46ced096632060b97fa2f6e3e3/cpp/MultiTracksPlayer.cpp.o	cd60acad6c3d1498
+1	1691	8031790088925196	CMakeFiles/MultiTrackPlayer.dir/src/main/cpp/JNI_MultiTrackPlayer.cpp.o	80ba085f2780619b
+1691	2008	8031790091293510	../../../../build/intermediates/cxx/Debug/27461t4s/obj/x86_64/libMultiTrackPlayer.so	3fcb1bb97a17c20a

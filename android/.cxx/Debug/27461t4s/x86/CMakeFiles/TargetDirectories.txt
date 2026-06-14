@@ -1,0 +1,3 @@
+C:/projetos/sound-table/react-native-multitrack-player/example/node_modules/react-native-multitrack-player/android/.cxx/Debug/27461t4s/x86/CMakeFiles/MultiTrackPlayer.dir
+C:/projetos/sound-table/react-native-multitrack-player/example/node_modules/react-native-multitrack-player/android/.cxx/Debug/27461t4s/x86/CMakeFiles/edit_cache.dir
+C:/projetos/sound-table/react-native-multitrack-player/example/node_modules/react-native-multitrack-player/android/.cxx/Debug/27461t4s/x86/CMakeFiles/rebuild_cache.dir

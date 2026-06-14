@@ -1,0 +1,27 @@
+# ninja log v5
+1	32	0	C:/projetos/sound-table/react-native-multitrack-player/example/android/app/.cxx/Debug/2i6t1du6/armeabi-v7a/CMakeFiles/cmake.verify_globs	9d90a84ee825d6ba
+27	16048	8031776163284137	CMakeFiles/appmodules.dir/OnLoad.cpp.o	df6de020e9888e0c
+60	11033	8031776111759512	RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/react/renderer/components/RNVectorIconsSpec/Props.cpp.o	d998b2b923737c41
+53	12691	8031776125917615	RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/react/renderer/components/RNVectorIconsSpec/States.cpp.o	82e7dcb044986f8b
+66	19753	8031776200775173	RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/796ad459e5c56493b6ccb0d610a9a963/ShadowNodes.cpp.o	f0344e3f275bc2ad
+48	9465	8031776097614795	RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/RNVectorIconsSpec-generated.cpp.o	7a49f888d77749e9
+32	8159	8031776082566324	RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/796ad459e5c56493b6ccb0d610a9a963/EventEmitters.cpp.o	6c0d93fdd6cad3c5
+18	10699	8031776106001743	CMakeFiles/appmodules.dir/8e597256614f9b1dd000e886871cd7c2/example/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	6fa4db41ed3598a8
+42	18880	8031776190800201	RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/796ad459e5c56493b6ccb0d610a9a963/ComponentDescriptors.cpp.o	6f7f1ada76a0c1ea
+19758	25427	8031776257781783	C:/projetos/sound-table/react-native-multitrack-player/example/android/app/build/intermediates/cxx/Debug/2i6t1du6/obj/armeabi-v7a/libappmodules.so	4b09e25e9b34b28a
+0	13	0	clean	3e9bc6f4a4d9827c
+43	1996	8031786414304764	build.ninja	9b88f2d6fff99360
+2	108	0	C:/projetos/sound-table/react-native-multitrack-player/example/android/app/.cxx/Debug/2i6t1du6/armeabi-v7a/CMakeFiles/cmake.verify_globs	9d90a84ee825d6ba
+70	6733	8031786574903685	RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/react/renderer/components/RNVectorIconsSpec/States.cpp.o	82e7dcb044986f8b
+38	7352	8031786580899147	RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/796ad459e5c56493b6ccb0d610a9a963/EventEmitters.cpp.o	6c0d93fdd6cad3c5
+53	8891	8031786597160883	RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/react/renderer/components/RNVectorIconsSpec/Props.cpp.o	d998b2b923737c41
+26	9203	8031786597348872	CMakeFiles/appmodules.dir/OnLoad.cpp.o	df6de020e9888e0c
+46	10711	8031786615213800	RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/RNVectorIconsSpec-generated.cpp.o	7a49f888d77749e9
+19	12537	8031786631255504	CMakeFiles/appmodules.dir/8e597256614f9b1dd000e886871cd7c2/example/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	6fa4db41ed3598a8
+32	14365	8031786651767290	RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/796ad459e5c56493b6ccb0d610a9a963/ComponentDescriptors.cpp.o	6f7f1ada76a0c1ea
+61	14901	8031786655044295	RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/796ad459e5c56493b6ccb0d610a9a963/ShadowNodes.cpp.o	f0344e3f275bc2ad
+14901	15478	8031786663170592	C:/projetos/sound-table/react-native-multitrack-player/example/android/app/build/intermediates/cxx/Debug/2i6t1du6/obj/armeabi-v7a/libappmodules.so	4b09e25e9b34b28a
+2	33	0	C:/projetos/sound-table/react-native-multitrack-player/example/android/app/.cxx/Debug/2i6t1du6/armeabi-v7a/CMakeFiles/cmake.verify_globs	9d90a84ee825d6ba
+2	89	0	C:/projetos/sound-table/react-native-multitrack-player/example/android/app/.cxx/Debug/2i6t1du6/armeabi-v7a/CMakeFiles/cmake.verify_globs	9d90a84ee825d6ba
+3	108	0	C:/projetos/sound-table/react-native-multitrack-player/example/android/app/.cxx/Debug/2i6t1du6/armeabi-v7a/CMakeFiles/cmake.verify_globs	9d90a84ee825d6ba
+3	26	0	C:/projetos/sound-table/react-native-multitrack-player/example/android/app/.cxx/Debug/2i6t1du6/armeabi-v7a/CMakeFiles/cmake.verify_globs	9d90a84ee825d6ba

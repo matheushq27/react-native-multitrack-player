@@ -1,0 +1,27 @@
+# ninja log v5
+2	114	0	C:/projetos/sound-table/react-native-multitrack-player/example/android/app/.cxx/Debug/2i6t1du6/x86/CMakeFiles/cmake.verify_globs	7a51ee6e85bc5c57
+27	15162	8031776479800662	RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/RNVectorIconsSpec-generated.cpp.o	4b67ecf4d17e38cb
+53	12845	8031776455339324	RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/react/renderer/components/RNVectorIconsSpec/ShadowNodes.cpp.o	fe9a71f1249ae91e
+48	13533	8031776459920199	RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/react/renderer/components/RNVectorIconsSpec/States.cpp.o	4d8d78a0056a8a76
+32	8678	8031776412994462	RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/react/renderer/components/RNVectorIconsSpec/EventEmitters.cpp.o	3fb8417e0cdad6
+22	11152	8031776438655552	CMakeFiles/appmodules.dir/OnLoad.cpp.o	9efa584e9eab59ec
+43	11075	8031776439781412	RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/react/renderer/components/RNVectorIconsSpec/Props.cpp.o	961bf77998825c31
+37	22703	8031776554614079	RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/796ad459e5c56493b6ccb0d610a9a963/ComponentDescriptors.cpp.o	c232bea14d8a5210
+16	17199	8031776500610149	CMakeFiles/appmodules.dir/8e597256614f9b1dd000e886871cd7c2/example/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	944cbe6b24636a9b
+22704	23002	8031776559227235	C:/projetos/sound-table/react-native-multitrack-player/example/android/app/build/intermediates/cxx/Debug/2i6t1du6/obj/x86/libappmodules.so	ee20dea326b99a21
+0	21	0	clean	3e9bc6f4a4d9827c
+52	1067	8031786731005686	build.ninja	6fdca80d8fd861f1
+1	49	0	C:/projetos/sound-table/react-native-multitrack-player/example/android/app/.cxx/Debug/2i6t1du6/x86/CMakeFiles/cmake.verify_globs	7a51ee6e85bc5c57
+53	5855	8031786793770911	RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/react/renderer/components/RNVectorIconsSpec/States.cpp.o	4d8d78a0056a8a76
+26	6254	8031786800046299	RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/react/renderer/components/RNVectorIconsSpec/EventEmitters.cpp.o	3fb8417e0cdad6
+16	7743	8031786814193693	CMakeFiles/appmodules.dir/8e597256614f9b1dd000e886871cd7c2/example/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	944cbe6b24636a9b
+39	10337	8031786839076784	RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/796ad459e5c56493b6ccb0d610a9a963/ComponentDescriptors.cpp.o	c232bea14d8a5210
+33	11560	8031786848203640	RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/RNVectorIconsSpec-generated.cpp.o	4b67ecf4d17e38cb
+22	12669	8031786860375313	CMakeFiles/appmodules.dir/OnLoad.cpp.o	9efa584e9eab59ec
+58	12808	8031786865761597	RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/react/renderer/components/RNVectorIconsSpec/Props.cpp.o	961bf77998825c31
+45	13813	8031786876124756	RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/react/renderer/components/RNVectorIconsSpec/ShadowNodes.cpp.o	fe9a71f1249ae91e
+13814	14405	8031786880099305	C:/projetos/sound-table/react-native-multitrack-player/example/android/app/build/intermediates/cxx/Debug/2i6t1du6/obj/x86/libappmodules.so	ee20dea326b99a21
+2	28	0	C:/projetos/sound-table/react-native-multitrack-player/example/android/app/.cxx/Debug/2i6t1du6/x86/CMakeFiles/cmake.verify_globs	7a51ee6e85bc5c57
+7	113	0	C:/projetos/sound-table/react-native-multitrack-player/example/android/app/.cxx/Debug/2i6t1du6/x86/CMakeFiles/cmake.verify_globs	7a51ee6e85bc5c57
+2	61	0	C:/projetos/sound-table/react-native-multitrack-player/example/android/app/.cxx/Debug/2i6t1du6/x86/CMakeFiles/cmake.verify_globs	7a51ee6e85bc5c57
+1	238	0	C:/projetos/sound-table/react-native-multitrack-player/example/android/app/.cxx/Debug/2i6t1du6/x86/CMakeFiles/cmake.verify_globs	7a51ee6e85bc5c57

@@ -1,0 +1,1 @@
+C:\projetos\sound-table\react-native-multitrack-player\example\node_modules\react-native-multitrack-player\android\CMakeLists.txt

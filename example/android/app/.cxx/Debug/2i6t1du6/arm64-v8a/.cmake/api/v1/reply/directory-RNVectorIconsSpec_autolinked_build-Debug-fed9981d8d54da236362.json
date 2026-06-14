@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "RNVectorIconsSpec_autolinked_build",
+		"source" : "C:/projetos/sound-table/react-native-multitrack-player/example/node_modules/react-native-vector-icons/android/build/generated/source/codegen/jni"
+	}
+}

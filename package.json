@@ -1,0 +1,73 @@
+{
+  "name": "react-native-multitrack-player",
+  "version": "1.0.0",
+  "description": "Low-latency multi-track audio player for React Native using Superpowered SDK",
+  "main": "lib/commonjs/index",
+  "module": "lib/module/index",
+  "types": "lib/typescript/src/index.d.ts",
+  "react-native": "src/index",
+  "source": "src/index",
+  "files": [
+    "src",
+    "lib",
+    "android",
+    "ios",
+    "cpp",
+    "Superpowered",
+    "react-native-multitrack-player.podspec",
+    "react-native.config.js",
+    "!android/build",
+    "!ios/build",
+    "!**/__tests__",
+    "!**/__fixtures__",
+    "!**/__mocks__"
+  ],
+  "scripts": {
+    "build": "bob build",
+    "lint": "eslint \"**/*.{js,ts,tsx}\"",
+    "format": "prettier --write \"**/*.{js,ts,tsx}\""
+  },
+  "keywords": [
+    "react-native",
+    "audio",
+    "low-latency",
+    "multitrack",
+    "superpowered",
+    "ios",
+    "android"
+  ],
+  "author": "",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "devDependencies": {
+    "@react-native/eslint-config": "^0.75.0",
+    "@tsconfig/react-native": "^3.0.0",
+    "@types/react": "^18.2.0",
+    "eslint": "^8.57.0",
+    "prettier": "^3.3.0",
+    "react": "18.3.1",
+    "react-native": "0.75.0",
+    "react-native-builder-bob": "^0.30.0",
+    "typescript": "^5.3.0"
+  },
+  "codegenConfig": {
+    "name": "RNMultiTrackPlayerSpec",
+    "type": "modules",
+    "jsSrcsDir": "src",
+    "android": {
+      "javaPackageName": "com.reactnativemultitrackplayer"
+    }
+  },
+  "react-native-builder-bob": {
+    "source": "src",
+    "output": "lib",
+    "targets": [
+      "commonjs",
+      "module",
+      "typescript"
+    ]
+  }
+}

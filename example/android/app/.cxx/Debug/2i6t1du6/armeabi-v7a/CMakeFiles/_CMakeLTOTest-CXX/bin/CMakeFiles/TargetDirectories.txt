@@ -1,0 +1,4 @@
+C:/projetos/sound-table/react-native-multitrack-player/example/android/app/.cxx/Debug/2i6t1du6/armeabi-v7a/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/foo.dir
+C:/projetos/sound-table/react-native-multitrack-player/example/android/app/.cxx/Debug/2i6t1du6/armeabi-v7a/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/boo.dir
+C:/projetos/sound-table/react-native-multitrack-player/example/android/app/.cxx/Debug/2i6t1du6/armeabi-v7a/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/edit_cache.dir
+C:/projetos/sound-table/react-native-multitrack-player/example/android/app/.cxx/Debug/2i6t1du6/armeabi-v7a/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/rebuild_cache.dir

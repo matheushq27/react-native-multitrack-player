@@ -1,0 +1,38 @@
+{
+  "buildFiles": [
+    "C:\\projetos\\sound-table\\react-native-multitrack-player\\example\\node_modules\\react-native-multitrack-player\\android\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\mhca_\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\projetos\\sound-table\\react-native-multitrack-player\\example\\node_modules\\react-native-multitrack-player\\android\\.cxx\\Debug\\27461t4s\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\mhca_\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\projetos\\sound-table\\react-native-multitrack-player\\example\\node_modules\\react-native-multitrack-player\\android\\.cxx\\Debug\\27461t4s\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "MultiTrackPlayer::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "x86",
+      "artifactName": "MultiTrackPlayer",
+      "output": "C:\\projetos\\sound-table\\react-native-multitrack-player\\example\\node_modules\\react-native-multitrack-player\\android\\build\\intermediates\\cxx\\Debug\\27461t4s\\obj\\x86\\libMultiTrackPlayer.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "C:\\Users\\mhca_\\AppData\\Local\\Android\\Sdk\\ndk\\27.1.12297006\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe",
+      "cppCompilerExecutable": "C:\\Users\\mhca_\\AppData\\Local\\Android\\Sdk\\ndk\\27.1.12297006\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

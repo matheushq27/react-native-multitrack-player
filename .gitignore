@@ -1,0 +1,46 @@
+# Dependencies
+node_modules/
+example/node_modules/
+
+# Build output (react-native-builder-bob)
+lib/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Android
+android/build/
+android/local.properties
+example/android/build/
+example/android/app/build/
+example/android/.gradle/
+example/android/local.properties
+*.keystore
+*.jks
+
+# iOS
+ios/build/
+example/ios/build/
+example/ios/Pods/
+example/ios/Podfile.lock
+example/ios/*.xcworkspace
+example/ios/DerivedData/
+example/ios/**/*.xcuserdata/
+
+# SDK temp files
+_sdk_tmp/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Metro bundler
+example/.metro-health-check*
